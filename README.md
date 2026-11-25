@@ -1,8 +1,31 @@
-# Clinic Patient Flow Dashboard
+<!-- styled:v2 -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1726,50:167dfe,100:9533fa&height=180&section=header&text=Clinic%20Patient%20Flow%20Dashboard&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Case%20study%20%E2%80%A2%20Healthcare%20%E2%80%A2%20Custom%20healthcare%20dashboard&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Clinic Patient Flow Dashboard" />
 
 **A live clinic dashboard that puts every provider and room on one schedule, with wait times, no-shows and appointment status in real time.**
 
-![Healthcare](https://img.shields.io/badge/Healthcare-167dfe?style=flat-square) ![Custom healthcare dashboard](https://img.shields.io/badge/Custom%20healthcare%20dashboard-9533fa?style=flat-square) ![React](https://img.shields.io/badge/React-231f20?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-231f20?style=flat-square) ![Python](https://img.shields.io/badge/Python-231f20?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-231f20?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-231f20?style=flat-square) ![Scheduling API](https://img.shields.io/badge/Scheduling%20API-231f20?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Healthcare-167dfe?style=flat-square" alt="Healthcare" />
+  <img src="https://img.shields.io/badge/Custom%20healthcare%20dashboard-9533fa?style=flat-square" alt="Custom healthcare dashboard" />
+  <img src="https://img.shields.io/badge/React-231f20?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-231f20?style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-231f20?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/n8n-231f20?style=flat-square" alt="n8n" />
+  <img src="https://img.shields.io/badge/Supabase-231f20?style=flat-square" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Scheduling%20API-231f20?style=flat-square" alt="Scheduling API" />
+</p>
+
+<p>
+  <a href="#overview">Overview</a> ·
+  <a href="#key-features">Key features</a> ·
+  <a href="#results">Results</a> ·
+  <a href="#tech-stack">Tech stack</a>
+</p>
+
+</div>
+
+---
 
 ![Clinic patient flow dashboard: a live schedule of every provider and room with wait times, no-shows and a current time marker.](assets/cover.webp)
 
@@ -34,7 +57,7 @@ A React dashboard fed by the scheduling API through n8n and Supabase, showing a 
 
 ## Tech stack
 
-React · Node.js · Python · n8n · Supabase · Scheduling API
+![React](https://img.shields.io/badge/React-1d1726?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-1d1726?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-1d1726?style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-1d1726?style=for-the-badge) ![Supabase](https://img.shields.io/badge/Supabase-1d1726?style=for-the-badge) ![Scheduling API](https://img.shields.io/badge/Scheduling%20API-1d1726?style=for-the-badge)
 
 ## Demo
 
@@ -47,4 +70,19 @@ Client names and records are confidential. Every screen in this repository uses 
 ## Links
 
 - Case study on Lexvaxa: https://lexvaxa.com/work/clinic-patient-flow-dashboard
-- Built by **Ch Muhammad Samiullah** ([GitHub](https://github.com/samiullah156-creator)) at [Lexvaxa](https://lexvaxa.com)
+
+---
+
+<div align="center">
+
+**Built by [Ch Muhammad Samiullah](https://github.com/samiullah156-creator)** · AI Automation Engineer and Full-Stack Developer at [Lexvaxa](https://lexvaxa.com)
+
+<a href="https://github.com/samiullah156-creator"><img src="https://img.shields.io/badge/More%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="More projects" /></a>
+<a href="https://lexvaxa.com/contact"><img src="https://img.shields.io/badge/Work%20with%20me-167dfe?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Work with me" /></a>
+<a href="https://www.linkedin.com/in/sami-lexvaxa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<sub>⭐ Star this repo if you found it useful</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9533fa,50:167dfe,100:1d1726&height=110&section=footer" width="100%" alt="" />
